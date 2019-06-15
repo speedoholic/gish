@@ -13,6 +13,7 @@
 		55BF74E522B572E500FBF035 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55BF74E422B572E500FBF035 /* Assets.xcassets */; };
 		55BF74E822B572E500FBF035 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55BF74E722B572E500FBF035 /* Preview Assets.xcassets */; };
 		55BF74EB22B572E500FBF035 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55BF74E922B572E500FBF035 /* LaunchScreen.storyboard */; };
+		55BF74F322B5753F00FBF035 /* Role.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BF74F222B5753F00FBF035 /* Role.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		55BF74E722B572E500FBF035 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		55BF74EA22B572E500FBF035 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55BF74EC22B572E500FBF035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55BF74F222B5753F00FBF035 /* Role.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Role.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		55BF74DD22B572E300FBF035 /* Gish */ = {
 			isa = PBXGroup;
 			children = (
+				55BF74F222B5753F00FBF035 /* Role.swift */,
 				55BF74DE22B572E300FBF035 /* AppDelegate.swift */,
 				55BF74E022B572E400FBF035 /* SceneDelegate.swift */,
 				55BF74E222B572E400FBF035 /* ContentView.swift */,
@@ -149,6 +152,7 @@
 				55BF74DF22B572E300FBF035 /* AppDelegate.swift in Sources */,
 				55BF74E122B572E400FBF035 /* SceneDelegate.swift in Sources */,
 				55BF74E322B572E400FBF035 /* ContentView.swift in Sources */,
+				55BF74F322B5753F00FBF035 /* Role.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

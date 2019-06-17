@@ -958,6 +958,40 @@
 			<key>uniqueIdentifier</key>
 			<string>7E5E299C-E985-4580-9024-AD5CF3BF49F2</string>
 		</dict>
+		<key>7EE20350-6489-4DA4-B4D0-7F6F9E375E03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EE20350-6489-4DA4-B4D0-7F6F9E375E03.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582345841.64504504</real>
+			<key>timeStoppedRecording</key>
+			<real>582345842.64793801</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>7EE20350-6489-4DA4-B4D0-7F6F9E375E03</string>
+		</dict>
 		<key>88387D2C-3912-4157-96F5-9F87496CCD35</key>
 		<dict>
 			<key>className</key>

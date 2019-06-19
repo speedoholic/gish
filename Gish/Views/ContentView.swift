@@ -17,10 +17,11 @@ struct ContentView : View {
         return Role(rawValue: selectedRoleIndex) ?? Role.timer
     }
     
+    let colors: [Color] = [.green, .yellow, .red]
+    
     var body: some View {
         NavigationView {
-            VStack {
-                Spacer()
+            VStack(spacing: 20) {
                 
                 TextField($username)
                     .font(.largeTitle)
@@ -29,17 +30,33 @@ struct ContentView : View {
                 
                 segmentedView
                 
+                Image(systemName: selectedRole.getImageName())
+                    .foregroundColor(Color.blue)
+                    .font(.largeTitle)
+                
+                
                 Text(selectedRole.getDescription())
                     .font(.callout)
                     .padding()
                     .frame(width: nil, height: 100, alignment: Alignment.center)
                 
+                hintView
+                
                 PresentationButton(destination: ListView()) {
-                    Text("Go")
+                    ZStack {
+                        Circle()
+                            .fill(Color.white)
+                            .frame(width: 150, height: 150)
+                        Text("Go")
+                            .font(.largeTitle)
+                    }
                 }
                 
                 Spacer()
             }
+            .background(LinearGradient(gradient: Gradient(colors:
+                [.white, .gray]), startPoint: .top, endPoint: .bottom),
+                    cornerRadius: 0)
             .edgesIgnoringSafeArea(.all)
             .navigationBarTitle(Text("Gish"))
             .navigationBarItems(trailing:
@@ -55,10 +72,27 @@ struct ContentView : View {
             ForEach(0..<Role.allCases.count) { index in
                 Text(Role.getString(index)).tag(index)
             }
-        }   .font(.headline)
+        }   .font(.largeTitle)
             .frame(width: nil, height: 100, alignment: Alignment.center)
             .padding()
         
+    }
+    
+    private var hintView: some View {
+        Group {
+            if selectedRole == .timer {
+                HStack {
+                    //TODO: Convert each circle to a button and show a picker to change the values while using a model to save timer configuration
+                    ForEach(colors.identified(by: \.self)) { color in
+                        Circle()
+                            .fill(color)
+                            .frame(width: 50, height: 50)
+                    }
+                }
+            } else {
+                Text("Ah, Um, Lexical or non-lexical pauses")
+            }
+        }
     }
 }
 

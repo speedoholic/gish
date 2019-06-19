@@ -21,6 +21,15 @@ public enum Role: Int, CaseIterable {
         }
     }
     
+    func getImageName() -> String {
+        switch self {
+        case .timer:
+            return "clock"
+        case .ahCounter:
+            return "pencil.and.ellipsis.rectangle"
+        }
+    }
+    
     static func getString(_ index: Int) -> String {
         guard let role = Role(rawValue: index) else {
             return ""

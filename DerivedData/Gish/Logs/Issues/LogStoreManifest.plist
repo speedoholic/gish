@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>C70D3BF8-38FB-4BD1-98EE-88A4DCFDDA5C</key>
+		<key>439858AC-4983-436B-9438-CA27D9AE9320</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>C70D3BF8-38FB-4BD1-98EE-88A4DCFDDA5C.xcactivitylog</string>
+			<string>439858AC-4983-436B-9438-CA27D9AE9320.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Gish-asexpnqmcitstxgjnlgjxgyglgws</string>
 			<key>timeStartedRecording</key>
-			<real>582579358.08660996</real>
+			<real>582667513.74747705</real>
 			<key>timeStoppedRecording</key>
-			<real>582579358.945907</real>
+			<real>582667514.94968402</real>
 			<key>title</key>
 			<string>Build target Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>C70D3BF8-38FB-4BD1-98EE-88A4DCFDDA5C</string>
+			<string>439858AC-4983-436B-9438-CA27D9AE9320</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

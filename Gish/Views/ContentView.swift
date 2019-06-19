@@ -12,18 +12,29 @@ struct ContentView : View {
     
     @State private var username: String = "Guest"
     @State private var selectedRoleIndex: Int = 0
+    @State private var red: Double = 420
+    @State private var yellow: Double = 360
+    @State private var green: Double = 300
+    @State private var referenceDate = Date()
+    @State private var selectedColorName: String = ""
+    
+    @Environment(\.horizontalSizeClass) var horizontalSizeClass: UserInterfaceSizeClass?
     
     private var selectedRole: Role {
         return Role(rawValue: selectedRoleIndex) ?? Role.timer
+    }
+    
+    private var selectedColor: TimerColor {
+        return TimerColor(rawValue: selectedColorName) ?? TimerColor.green
     }
     
     let colors: [Color] = [.green, .yellow, .red]
     
     var body: some View {
         NavigationView {
-            VStack(spacing: 20) {
-                
+            VStack(spacing: 10) {
                 TextField($username)
+                    .textFieldStyle(.roundedBorder)
                     .font(.largeTitle)
                     .padding()
                     .multilineTextAlignment(.center)
@@ -40,7 +51,7 @@ struct ContentView : View {
                     .padding()
                     .frame(width: nil, height: 100, alignment: Alignment.center)
                 
-                hintView
+                configurationView
                 
                 PresentationButton(destination: ListView()) {
                     ZStack {
@@ -51,13 +62,12 @@ struct ContentView : View {
                             .font(.largeTitle)
                     }
                 }
-                
                 Spacer()
             }
             .background(LinearGradient(gradient: Gradient(colors:
                 [.white, .gray]), startPoint: .top, endPoint: .bottom),
                     cornerRadius: 0)
-            .edgesIgnoringSafeArea(.all)
+            .edgesIgnoringSafeArea(.bottom)
             .navigationBarTitle(Text("Gish"))
             .navigationBarItems(trailing:
                 PresentationButton(destination:FormView()) {
@@ -78,22 +88,110 @@ struct ContentView : View {
         
     }
     
-    private var hintView: some View {
+    private var configurationView: some View {
         Group {
-            if selectedRole == .timer {
-                HStack {
-                    //TODO: Convert each circle to a button and show a picker to change the values while using a model to save timer configuration
-                    ForEach(colors.identified(by: \.self)) { color in
-                        Circle()
-                            .fill(color)
-                            .frame(width: 50, height: 50)
+            if self.selectedRole == Role.timer {
+                VStack {
+                    HStack {
+                        ForEach(colors.identified(by: \.self)) { color in
+                            Button(action: {
+                                print("test")
+                                self.selectedColorName = color.description
+                            }) {
+                                ZStack {
+                                    Circle()
+                                        .fill(color)
+                                        .frame(width: 50, height: 50)
+                                    Text(self.getTimerButtonTitle(color))
+                                        .font(.footnote)
+                                }
+                                
+                            }
+                        }
                     }
+                    sliderView
                 }
             } else {
                 Text("Ah, Um, Lexical or non-lexical pauses")
             }
         }
     }
+    
+    private func getTimerButtonTitle(_ color: Color) -> String {
+        var numberOfSeconds = green
+        guard let timerColor = TimerColor.init(rawValue: color.description) else {return ""}
+        switch timerColor {
+        case .green:
+            numberOfSeconds = green
+        case .yellow:
+            numberOfSeconds = yellow
+        case .red:
+            numberOfSeconds = red
+        }
+        let minutes = numberOfSeconds / 60
+        return "\(minutes.rounded(toPlaces: 1))"
+    }
+    
+    
+    private var sliderView: some View {
+        Group {
+            if self.selectedColor == .green {
+                Slider(value: $green, from: 0, through: 600, by: 30) { (didBeginChange) in
+                    if didBeginChange {
+                        print("Started sliding from \(self.green)")
+                    }
+                    //didEndChange
+                    else {
+                        print("Stopped sliding at \(self.green)")
+                        if self.green >= self.yellow {
+                            self.green = self.yellow
+                        }
+                    }
+                }.padding()
+            } else if self.selectedColor == .yellow {
+                Slider(value: $yellow, from: 0, through: 600, by: 30) { (didBeginChange) in
+                    if didBeginChange {
+                        print("Started sliding from \(self.yellow)")
+                    }
+                        //didEndChange
+                    else {
+                        print("Stopped sliding at \(self.yellow)")
+                        if self.yellow <= self.green {
+                            self.yellow = self.green
+                        } else if self.yellow >= self.red {
+                            self.yellow = self.red
+                        }
+                    }
+                }.padding()
+            } else if self.selectedColor == .red {
+                Slider(value: $red, from: 0, through: 600, by: 30) { (didBeginChange) in
+                    if didBeginChange {
+                        print("Started sliding from \(self.red)")
+                    }
+                        //didEndChange
+                    else {
+                        print("Stopped sliding at \(self.red)")
+                        if self.red <= self.yellow {
+                            self.red = self.yellow
+                        }
+                    }
+                }.padding()
+            }
+        }
+    }
+    
+//    private var timerButtonTextView: some View {
+//        Group {
+//            if self.selectedColor == .green {
+//                Text("\(green / 60)")
+//                    .font(.footnote)
+//            } else if self.selectedColor == .yellow {
+//                Slider(value: $yellow, from: 0, through: 600, by: 30)
+//            } else if self.selectedColor == .red {
+//                Slider(value: $red, from: 0, through: 600, by: 30)
+//            }
+//        }
+//    }
 }
 
 #if DEBUG

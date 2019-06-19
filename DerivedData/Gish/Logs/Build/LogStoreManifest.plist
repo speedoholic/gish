@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>002E241C-D796-4AC1-A1A4-4A56DDF321AC</key>
+		<key>03CB37E2-1A8E-4FCA-AAF6-3EE2D0132B0A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>002E241C-D796-4AC1-A1A4-4A56DDF321AC.xcactivitylog</string>
+			<string>03CB37E2-1A8E-4FCA-AAF6-3EE2D0132B0A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667465.02023995</real>
+			<real>582672652.33097696</real>
 			<key>timeStoppedRecording</key>
-			<real>582667466.05455995</real>
+			<real>582672653.59933996</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>002E241C-D796-4AC1-A1A4-4A56DDF321AC</string>
+			<string>03CB37E2-1A8E-4FCA-AAF6-3EE2D0132B0A</string>
 		</dict>
-		<key>00C34E09-E62A-42FA-AA99-BDE0DE94D561</key>
+		<key>050D92FE-31F0-4676-AA38-6C5FB28C9FBA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>00C34E09-E62A-42FA-AA99-BDE0DE94D561.xcactivitylog</string>
+			<string>050D92FE-31F0-4676-AA38-6C5FB28C9FBA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666985.12852204</real>
+			<real>582670313.109146</real>
 			<key>timeStoppedRecording</key>
-			<real>582666986.45745897</real>
+			<real>582670315.29606998</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>00C34E09-E62A-42FA-AA99-BDE0DE94D561</string>
+			<string>050D92FE-31F0-4676-AA38-6C5FB28C9FBA</string>
 		</dict>
-		<key>06B9881B-AA85-4688-A504-A5EF79B160AF</key>
+		<key>07891B3B-39DB-4709-95FB-1C3A128A4EA4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>06B9881B-AA85-4688-A504-A5EF79B160AF.xcactivitylog</string>
+			<string>07891B3B-39DB-4709-95FB-1C3A128A4EA4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666054.49348104</real>
+			<real>582672537.18652904</real>
 			<key>timeStoppedRecording</key>
-			<real>582666055.616575</real>
+			<real>582672537.43366897</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>06B9881B-AA85-4688-A504-A5EF79B160AF</string>
+			<string>07891B3B-39DB-4709-95FB-1C3A128A4EA4</string>
 		</dict>
-		<key>09441C55-C76C-488D-9C8D-65B7BBA845F3</key>
+		<key>1546E015-C800-4C47-835B-C3B3660DA358</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>09441C55-C76C-488D-9C8D-65B7BBA845F3.xcactivitylog</string>
+			<string>1546E015-C800-4C47-835B-C3B3660DA358.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667335.79968596</real>
+			<real>582670404.60354602</real>
 			<key>timeStoppedRecording</key>
-			<real>582667336.30002105</real>
+			<real>582670405.08063197</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>09441C55-C76C-488D-9C8D-65B7BBA845F3</string>
+			<string>1546E015-C800-4C47-835B-C3B3660DA358</string>
 		</dict>
-		<key>0C47DB4B-CE33-48D6-A7AC-0EB55AAA91C9</key>
+		<key>162B7AFA-ABCB-4E1D-BEE4-79AD29D6D614</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0C47DB4B-CE33-48D6-A7AC-0EB55AAA91C9.xcactivitylog</string>
+			<string>162B7AFA-ABCB-4E1D-BEE4-79AD29D6D614.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667116.73338199</real>
+			<real>582670644.98203301</real>
 			<key>timeStoppedRecording</key>
-			<real>582667118.01396596</real>
+			<real>582670645.20570505</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>0C47DB4B-CE33-48D6-A7AC-0EB55AAA91C9</string>
+			<string>162B7AFA-ABCB-4E1D-BEE4-79AD29D6D614</string>
 		</dict>
-		<key>134CC187-92B1-4869-A46E-933BBAE3BE1E</key>
+		<key>22F0B7C2-5A84-471A-BFF9-F0B599F50FCA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,313 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>134CC187-92B1-4869-A46E-933BBAE3BE1E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665085.76636696</real>
-			<key>timeStoppedRecording</key>
-			<real>582665086.59757197</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>134CC187-92B1-4869-A46E-933BBAE3BE1E</string>
-		</dict>
-		<key>167B8A55-EA72-4DFF-8460-AB2066009FDF</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>167B8A55-EA72-4DFF-8460-AB2066009FDF.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665803.68241799</real>
-			<key>timeStoppedRecording</key>
-			<real>582665804.643466</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>167B8A55-EA72-4DFF-8460-AB2066009FDF</string>
-		</dict>
-		<key>19256251-793F-4BF1-9B30-F89E3E4DAD7E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>19256251-793F-4BF1-9B30-F89E3E4DAD7E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665910.13406003</real>
-			<key>timeStoppedRecording</key>
-			<real>582665911.131935</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>19256251-793F-4BF1-9B30-F89E3E4DAD7E</string>
-		</dict>
-		<key>19A67E93-C1FE-42CF-872A-DAA70FDD19D0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>19A67E93-C1FE-42CF-872A-DAA70FDD19D0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665957.58456302</real>
-			<key>timeStoppedRecording</key>
-			<real>582665958.70125198</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>19A67E93-C1FE-42CF-872A-DAA70FDD19D0</string>
-		</dict>
-		<key>1E5A15B9-1A0F-45DF-9C6A-04CF18401D5C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1E5A15B9-1A0F-45DF-9C6A-04CF18401D5C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665531.81781495</real>
-			<key>timeStoppedRecording</key>
-			<real>582665532.836712</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>1E5A15B9-1A0F-45DF-9C6A-04CF18401D5C</string>
-		</dict>
-		<key>1E8D2ABD-6665-4322-B5CE-CB6781A496A9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1E8D2ABD-6665-4322-B5CE-CB6781A496A9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582666111.45956898</real>
-			<key>timeStoppedRecording</key>
-			<real>582666112.56672895</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>1E8D2ABD-6665-4322-B5CE-CB6781A496A9</string>
-		</dict>
-		<key>208EC430-98DE-436F-9871-A5E1338AD9AB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>208EC430-98DE-436F-9871-A5E1338AD9AB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582666338.21191597</real>
-			<key>timeStoppedRecording</key>
-			<real>582666339.26916695</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>208EC430-98DE-436F-9871-A5E1338AD9AB</string>
-		</dict>
-		<key>21D3F3F6-B072-4B0C-87C2-31E6BD62E4F6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>21D3F3F6-B072-4B0C-87C2-31E6BD62E4F6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665240.63242698</real>
-			<key>timeStoppedRecording</key>
-			<real>582665241.68610704</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>21D3F3F6-B072-4B0C-87C2-31E6BD62E4F6</string>
-		</dict>
-		<key>22CDE158-FF58-4A05-9815-414153892C44</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>22CDE158-FF58-4A05-9815-414153892C44.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582666884.25214601</real>
-			<key>timeStoppedRecording</key>
-			<real>582666885.43618095</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>22CDE158-FF58-4A05-9815-414153892C44</string>
-		</dict>
-		<key>2303040C-F338-41F1-8D7A-BA8F582C7C32</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2303040C-F338-41F1-8D7A-BA8F582C7C32.xcactivitylog</string>
+			<string>22F0B7C2-5A84-471A-BFF9-F0B599F50FCA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +202,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665667.25785697</real>
+			<real>582670465.52832401</real>
 			<key>timeStoppedRecording</key>
-			<real>582665667.73815596</real>
+			<real>582670466.07985902</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>2303040C-F338-41F1-8D7A-BA8F582C7C32</string>
+			<string>22F0B7C2-5A84-471A-BFF9-F0B599F50FCA</string>
 		</dict>
-		<key>26607198-1E65-472E-9AB7-EECA427807DA</key>
+		<key>24380F2D-FF37-44F9-95A6-8D7439E4DADC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -525,7 +219,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>26607198-1E65-472E-9AB7-EECA427807DA.xcactivitylog</string>
+			<string>24380F2D-FF37-44F9-95A6-8D7439E4DADC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670665.11809695</real>
+			<key>timeStoppedRecording</key>
+			<real>582670666.29076898</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>24380F2D-FF37-44F9-95A6-8D7439E4DADC</string>
+		</dict>
+		<key>2730B9E2-D8D4-4DE2-A356-1FDF32BB2E03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2730B9E2-D8D4-4DE2-A356-1FDF32BB2E03.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671555.31329095</real>
+			<key>timeStoppedRecording</key>
+			<real>582671556.73057699</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>2730B9E2-D8D4-4DE2-A356-1FDF32BB2E03</string>
+		</dict>
+		<key>32A0DEDF-F939-4242-9C4F-063C7C34B271</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>32A0DEDF-F939-4242-9C4F-063C7C34B271.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +304,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665452.06019402</real>
+			<real>582670392.373209</real>
 			<key>timeStoppedRecording</key>
-			<real>582665452.58451998</real>
+			<real>582670393.05548203</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>26607198-1E65-472E-9AB7-EECA427807DA</string>
+			<string>32A0DEDF-F939-4242-9C4F-063C7C34B271</string>
 		</dict>
-		<key>2A861087-6D23-4B92-8F3D-2C81F23504AE</key>
+		<key>3EBD9511-9375-4C28-BB34-997EA378D7E4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -559,109 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2A861087-6D23-4B92-8F3D-2C81F23504AE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582666905.58250403</real>
-			<key>timeStoppedRecording</key>
-			<real>582666906.76778805</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>2A861087-6D23-4B92-8F3D-2C81F23504AE</string>
-		</dict>
-		<key>2E239881-8047-4505-8E6F-6F559430DB79</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2E239881-8047-4505-8E6F-6F559430DB79.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667026.16623402</real>
-			<key>timeStoppedRecording</key>
-			<real>582667027.42256701</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>2E239881-8047-4505-8E6F-6F559430DB79</string>
-		</dict>
-		<key>2F3ABF25-67E6-4BA6-8B4D-B6D144764866</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2F3ABF25-67E6-4BA6-8B4D-B6D144764866.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665181.68057597</real>
-			<key>timeStoppedRecording</key>
-			<real>582665182.72395694</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>2F3ABF25-67E6-4BA6-8B4D-B6D144764866</string>
-		</dict>
-		<key>43F3682A-FC88-4F4D-BAA6-5E361DB09D5F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>43F3682A-FC88-4F4D-BAA6-5E361DB09D5F.xcactivitylog</string>
+			<string>3EBD9511-9375-4C28-BB34-997EA378D7E4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +338,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665834.40735996</real>
+			<real>582670280.22832596</real>
 			<key>timeStoppedRecording</key>
-			<real>582665834.82392704</real>
+			<real>582670280.86589003</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>43F3682A-FC88-4F4D-BAA6-5E361DB09D5F</string>
+			<string>3EBD9511-9375-4C28-BB34-997EA378D7E4</string>
 		</dict>
-		<key>4C08A845-6A63-409D-A44C-9C2833B7577E</key>
+		<key>40370EA3-EACD-4543-9485-180A37FA8772</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -695,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4C08A845-6A63-409D-A44C-9C2833B7577E.xcactivitylog</string>
+			<string>40370EA3-EACD-4543-9485-180A37FA8772.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +372,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665575.22806895</real>
+			<real>582673045.22454906</real>
 			<key>timeStoppedRecording</key>
-			<real>582665576.27490199</real>
+			<real>582673046.538728</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>4C08A845-6A63-409D-A44C-9C2833B7577E</string>
+			<string>40370EA3-EACD-4543-9485-180A37FA8772</string>
 		</dict>
-		<key>4F315750-B12A-4D18-988D-7557D6395AC3</key>
+		<key>4537C47F-D9CB-4E57-A58E-B995F1811C2F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -729,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4F315750-B12A-4D18-988D-7557D6395AC3.xcactivitylog</string>
+			<string>4537C47F-D9CB-4E57-A58E-B995F1811C2F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -746,15 +406,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666827.43289196</real>
+			<real>582671822.70688605</real>
 			<key>timeStoppedRecording</key>
-			<real>582666829.08491397</real>
+			<real>582671824.39791906</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>4F315750-B12A-4D18-988D-7557D6395AC3</string>
+			<string>4537C47F-D9CB-4E57-A58E-B995F1811C2F</string>
 		</dict>
-		<key>56DC7168-1FDB-4B57-A853-2496DCC6220C</key>
+		<key>47795EC5-10CC-4B18-A46D-DA69A7A5D7C0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -763,177 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>56DC7168-1FDB-4B57-A853-2496DCC6220C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665462.11675406</real>
-			<key>timeStoppedRecording</key>
-			<real>582665463.07086504</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>56DC7168-1FDB-4B57-A853-2496DCC6220C</string>
-		</dict>
-		<key>5FEF3E26-097D-4494-936F-8E8B90018E30</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>5FEF3E26-097D-4494-936F-8E8B90018E30.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667513.70667005</real>
-			<key>timeStoppedRecording</key>
-			<real>582667515.13611102</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>5FEF3E26-097D-4494-936F-8E8B90018E30</string>
-		</dict>
-		<key>66CC593B-9EAD-43DD-B499-24BFE860BAC0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>66CC593B-9EAD-43DD-B499-24BFE860BAC0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582664955.32648695</real>
-			<key>timeStoppedRecording</key>
-			<real>582664959.24726105</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>66CC593B-9EAD-43DD-B499-24BFE860BAC0</string>
-		</dict>
-		<key>67F94BB7-DEAD-49EA-83F5-89ED55459F4D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>67F94BB7-DEAD-49EA-83F5-89ED55459F4D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665675.27449095</real>
-			<key>timeStoppedRecording</key>
-			<real>582665676.14718604</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>67F94BB7-DEAD-49EA-83F5-89ED55459F4D</string>
-		</dict>
-		<key>6B297387-6AE8-4385-9BED-64F7E1E61934</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6B297387-6AE8-4385-9BED-64F7E1E61934.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665937.14558697</real>
-			<key>timeStoppedRecording</key>
-			<real>582665938.16533196</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>6B297387-6AE8-4385-9BED-64F7E1E61934</string>
-		</dict>
-		<key>72FD9B7D-8599-4FF6-9207-0CD22DDBB47D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>72FD9B7D-8599-4FF6-9207-0CD22DDBB47D.xcactivitylog</string>
+			<string>47795EC5-10CC-4B18-A46D-DA69A7A5D7C0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -950,15 +440,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667358.47168505</real>
+			<real>582670951.64744306</real>
 			<key>timeStoppedRecording</key>
-			<real>582667358.96936297</real>
+			<real>582670952.25521696</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>72FD9B7D-8599-4FF6-9207-0CD22DDBB47D</string>
+			<string>47795EC5-10CC-4B18-A46D-DA69A7A5D7C0</string>
 		</dict>
-		<key>7A398561-A504-40DF-A19E-7E7A0E3D7378</key>
+		<key>506E0D1C-D973-43AA-852A-C79394814FF1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -967,7 +457,279 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7A398561-A504-40DF-A19E-7E7A0E3D7378.xcactivitylog</string>
+			<string>506E0D1C-D973-43AA-852A-C79394814FF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582672533.44093096</real>
+			<key>timeStoppedRecording</key>
+			<real>582672534.65662503</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>506E0D1C-D973-43AA-852A-C79394814FF1</string>
+		</dict>
+		<key>52E4A0B4-9A9F-4BFD-AF02-4D3C9024B9E1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>52E4A0B4-9A9F-4BFD-AF02-4D3C9024B9E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671571.80095005</real>
+			<key>timeStoppedRecording</key>
+			<real>582671573.147349</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>52E4A0B4-9A9F-4BFD-AF02-4D3C9024B9E1</string>
+		</dict>
+		<key>6178C51D-7265-4C70-A0C9-24305E505CD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6178C51D-7265-4C70-A0C9-24305E505CD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582672776.13550198</real>
+			<key>timeStoppedRecording</key>
+			<real>582672777.43341005</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>6178C51D-7265-4C70-A0C9-24305E505CD4</string>
+		</dict>
+		<key>64B8FDAC-0EBD-45B8-ABB0-D4E6819C3B84</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64B8FDAC-0EBD-45B8-ABB0-D4E6819C3B84.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670806.67225397</real>
+			<key>timeStoppedRecording</key>
+			<real>582670807.93347394</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>64B8FDAC-0EBD-45B8-ABB0-D4E6819C3B84</string>
+		</dict>
+		<key>6519606E-CA94-40D1-B55C-E2850A973A22</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6519606E-CA94-40D1-B55C-E2850A973A22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671742.268767</real>
+			<key>timeStoppedRecording</key>
+			<real>582671743.58430696</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>6519606E-CA94-40D1-B55C-E2850A973A22</string>
+		</dict>
+		<key>70FABCF9-1A8C-45DB-9281-4327F258F85D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70FABCF9-1A8C-45DB-9281-4327F258F85D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582672240.79462302</real>
+			<key>timeStoppedRecording</key>
+			<real>582672242.10286701</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>70FABCF9-1A8C-45DB-9281-4327F258F85D</string>
+		</dict>
+		<key>7AEEAAB7-205F-481B-9F71-0D6FD0BB7607</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AEEAAB7-205F-481B-9F71-0D6FD0BB7607.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582672010.84746695</real>
+			<key>timeStoppedRecording</key>
+			<real>582672012.28517199</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>7AEEAAB7-205F-481B-9F71-0D6FD0BB7607</string>
+		</dict>
+		<key>849CF264-F149-4674-84DA-B11346DC6573</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>849CF264-F149-4674-84DA-B11346DC6573.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671038.43249297</real>
+			<key>timeStoppedRecording</key>
+			<real>582671039.58228099</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>849CF264-F149-4674-84DA-B11346DC6573</string>
+		</dict>
+		<key>852AF17F-21A3-46EA-BFBE-E82852092D73</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>852AF17F-21A3-46EA-BFBE-E82852092D73.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -984,15 +746,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667458.69066095</real>
+			<real>582672764.81320703</real>
 			<key>timeStoppedRecording</key>
-			<real>582667459.19979203</real>
+			<real>582672765.44783604</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>7A398561-A504-40DF-A19E-7E7A0E3D7378</string>
+			<string>852AF17F-21A3-46EA-BFBE-E82852092D73</string>
 		</dict>
-		<key>7EF7C16C-513D-4D72-BB89-0595CC30EBE8</key>
+		<key>8B4DAB7E-7329-4A03-814C-6256269389AF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1001,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7EF7C16C-513D-4D72-BB89-0595CC30EBE8.xcactivitylog</string>
+			<string>8B4DAB7E-7329-4A03-814C-6256269389AF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1018,15 +780,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665875.16330099</real>
+			<real>582670428.98838496</real>
 			<key>timeStoppedRecording</key>
-			<real>582665875.561993</real>
+			<real>582670429.47127104</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>7EF7C16C-513D-4D72-BB89-0595CC30EBE8</string>
+			<string>8B4DAB7E-7329-4A03-814C-6256269389AF</string>
 		</dict>
-		<key>81FA51A3-B6A7-495F-907B-D3442781FCD5</key>
+		<key>8E82BF8A-6224-4A2F-B941-42B3458CB3F2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1035,7 +797,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>81FA51A3-B6A7-495F-907B-D3442781FCD5.xcactivitylog</string>
+			<string>8E82BF8A-6224-4A2F-B941-42B3458CB3F2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1052,15 +814,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665890.92058504</real>
+			<real>582670497.68731403</real>
 			<key>timeStoppedRecording</key>
-			<real>582665891.79814994</real>
+			<real>582670498.78447902</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>81FA51A3-B6A7-495F-907B-D3442781FCD5</string>
+			<string>8E82BF8A-6224-4A2F-B941-42B3458CB3F2</string>
 		</dict>
-		<key>8A5E75F3-A95C-4764-96EB-93E25D244175</key>
+		<key>966B0C69-ECDC-4EE1-9889-160C91E57481</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1069,75 +831,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8A5E75F3-A95C-4764-96EB-93E25D244175.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582666997.14578605</real>
-			<key>timeStoppedRecording</key>
-			<real>582666998.38060498</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>8A5E75F3-A95C-4764-96EB-93E25D244175</string>
-		</dict>
-		<key>8BF654A8-9FD9-4945-AB4A-729E3F896AE7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8BF654A8-9FD9-4945-AB4A-729E3F896AE7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665333.89231002</real>
-			<key>timeStoppedRecording</key>
-			<real>582665334.857355</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>8BF654A8-9FD9-4945-AB4A-729E3F896AE7</string>
-		</dict>
-		<key>96BB1DA2-F9F9-4EB0-9AA9-D10B4B0DAB06</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>96BB1DA2-F9F9-4EB0-9AA9-D10B4B0DAB06.xcactivitylog</string>
+			<string>966B0C69-ECDC-4EE1-9889-160C91E57481.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1154,15 +848,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665869.024436</real>
+			<real>582671590.09489</real>
 			<key>timeStoppedRecording</key>
-			<real>582665869.41613102</real>
+			<real>582671591.91843295</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>96BB1DA2-F9F9-4EB0-9AA9-D10B4B0DAB06</string>
+			<string>966B0C69-ECDC-4EE1-9889-160C91E57481</string>
 		</dict>
-		<key>A21A779B-A51F-469D-944F-8E630BAB653B</key>
+		<key>9C3014FC-37E0-4107-AD85-4DD6F875FE5F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1171,7 +865,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A21A779B-A51F-469D-944F-8E630BAB653B.xcactivitylog</string>
+			<string>9C3014FC-37E0-4107-AD85-4DD6F875FE5F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1188,15 +882,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582579358.06324899</real>
+			<real>582672825.40294802</real>
 			<key>timeStoppedRecording</key>
-			<real>582579359.19048405</real>
+			<real>582672826.65007699</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>A21A779B-A51F-469D-944F-8E630BAB653B</string>
+			<string>9C3014FC-37E0-4107-AD85-4DD6F875FE5F</string>
 		</dict>
-		<key>A4283056-6E01-4CCD-BC74-D60567AF9F20</key>
+		<key>9CB562ED-E414-4269-9E6B-26DE9FDA0EE6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1205,7 +899,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A4283056-6E01-4CCD-BC74-D60567AF9F20.xcactivitylog</string>
+			<string>9CB562ED-E414-4269-9E6B-26DE9FDA0EE6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1222,15 +916,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666858.73705196</real>
+			<real>582671876.81742203</real>
 			<key>timeStoppedRecording</key>
-			<real>582666859.98217297</real>
+			<real>582671878.09601104</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>A4283056-6E01-4CCD-BC74-D60567AF9F20</string>
+			<string>9CB562ED-E414-4269-9E6B-26DE9FDA0EE6</string>
 		</dict>
-		<key>B1F97D6F-5F13-46C5-84D4-15CB1FD36408</key>
+		<key>9E783771-99F9-43B9-906A-BCFFF9CF1D54</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1239,109 +933,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B1F97D6F-5F13-46C5-84D4-15CB1FD36408.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665288.52353406</real>
-			<key>timeStoppedRecording</key>
-			<real>582665289.62767696</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>B1F97D6F-5F13-46C5-84D4-15CB1FD36408</string>
-		</dict>
-		<key>BE305172-CB73-4DC5-82D1-318A8E383E2C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BE305172-CB73-4DC5-82D1-318A8E383E2C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582666930.01052701</real>
-			<key>timeStoppedRecording</key>
-			<real>582666931.24189103</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>BE305172-CB73-4DC5-82D1-318A8E383E2C</string>
-		</dict>
-		<key>C3099F91-A983-4389-A59A-EE7631008A0E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C3099F91-A983-4389-A59A-EE7631008A0E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667409.70221698</real>
-			<key>timeStoppedRecording</key>
-			<real>582667410.92003202</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>C3099F91-A983-4389-A59A-EE7631008A0E</string>
-		</dict>
-		<key>CA3344A2-C6F4-4E24-AEF9-73C68F4971FC</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>CA3344A2-C6F4-4E24-AEF9-73C68F4971FC.xcactivitylog</string>
+			<string>9E783771-99F9-43B9-906A-BCFFF9CF1D54.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1358,15 +950,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667321.00957704</real>
+			<real>582672770.05436099</real>
 			<key>timeStoppedRecording</key>
-			<real>582667321.43371904</real>
+			<real>582672770.60787904</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>CA3344A2-C6F4-4E24-AEF9-73C68F4971FC</string>
+			<string>9E783771-99F9-43B9-906A-BCFFF9CF1D54</string>
 		</dict>
-		<key>CFC22A6D-EE38-49E4-90C6-913E03031177</key>
+		<key>9FD30FA0-D57F-4606-9621-BAF73DCDC9F4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1375,143 +967,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CFC22A6D-EE38-49E4-90C6-913E03031177.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667146.60008597</real>
-			<key>timeStoppedRecording</key>
-			<real>582667147.91106701</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>CFC22A6D-EE38-49E4-90C6-913E03031177</string>
-		</dict>
-		<key>D21E77A5-BB0F-4D12-80BE-87F917A5E748</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D21E77A5-BB0F-4D12-80BE-87F917A5E748.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667064.29698896</real>
-			<key>timeStoppedRecording</key>
-			<real>582667065.56905401</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>D21E77A5-BB0F-4D12-80BE-87F917A5E748</string>
-		</dict>
-		<key>EE1347BF-5AB1-4CE6-B057-73DC47D007C7</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EE1347BF-5AB1-4CE6-B057-73DC47D007C7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667088.18189502</real>
-			<key>timeStoppedRecording</key>
-			<real>582667089.45136297</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>EE1347BF-5AB1-4CE6-B057-73DC47D007C7</string>
-		</dict>
-		<key>F4167649-AA0D-42D7-BFBC-B5221A5DDE0E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F4167649-AA0D-42D7-BFBC-B5221A5DDE0E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667048.39875305</real>
-			<key>timeStoppedRecording</key>
-			<real>582667049.698102</real>
-			<key>title</key>
-			<string>Build Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>F4167649-AA0D-42D7-BFBC-B5221A5DDE0E</string>
-		</dict>
-		<key>F882EBB4-2475-48C2-B92B-EF0637A4E20C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F882EBB4-2475-48C2-B92B-EF0637A4E20C.xcactivitylog</string>
+			<string>9FD30FA0-D57F-4606-9621-BAF73DCDC9F4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1528,15 +984,15 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665878.82760704</real>
+			<real>582671382.76036704</real>
 			<key>timeStoppedRecording</key>
-			<real>582665879.23418105</real>
+			<real>582671383.32558596</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>F882EBB4-2475-48C2-B92B-EF0637A4E20C</string>
+			<string>9FD30FA0-D57F-4606-9621-BAF73DCDC9F4</string>
 		</dict>
-		<key>FFBB79EE-4871-40D0-BE9F-BE71E4E8A948</key>
+		<key>A874DD57-90AA-457C-8F6D-26E6C953F47B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1545,7 +1001,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>FFBB79EE-4871-40D0-BE9F-BE71E4E8A948.xcactivitylog</string>
+			<string>A874DD57-90AA-457C-8F6D-26E6C953F47B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1562,13 +1018,659 @@
 			<key>signature</key>
 			<string>Build Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665603.39517701</real>
+			<real>582671438.97285998</real>
 			<key>timeStoppedRecording</key>
-			<real>582665604.37051904</real>
+			<real>582671440.29369199</real>
 			<key>title</key>
 			<string>Build Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>FFBB79EE-4871-40D0-BE9F-BE71E4E8A948</string>
+			<string>A874DD57-90AA-457C-8F6D-26E6C953F47B</string>
+		</dict>
+		<key>A8EE73C8-6007-416F-AD01-F774274933FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A8EE73C8-6007-416F-AD01-F774274933FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582672609.19691098</real>
+			<key>timeStoppedRecording</key>
+			<real>582672609.82525599</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>A8EE73C8-6007-416F-AD01-F774274933FF</string>
+		</dict>
+		<key>AED6F334-6814-467D-9420-BF1F8601A3A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AED6F334-6814-467D-9420-BF1F8601A3A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671432.43260598</real>
+			<key>timeStoppedRecording</key>
+			<real>582671433.09340405</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>AED6F334-6814-467D-9420-BF1F8601A3A1</string>
+		</dict>
+		<key>AFD84C1A-27E1-41F8-864E-D3F673403120</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AFD84C1A-27E1-41F8-864E-D3F673403120.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582672127.80112803</real>
+			<key>timeStoppedRecording</key>
+			<real>582672129.45415103</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>AFD84C1A-27E1-41F8-864E-D3F673403120</string>
+		</dict>
+		<key>C23BD834-BD36-40E9-80F8-22A834E8A825</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C23BD834-BD36-40E9-80F8-22A834E8A825.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582672909.88971198</real>
+			<key>timeStoppedRecording</key>
+			<real>582672911.26173103</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>C23BD834-BD36-40E9-80F8-22A834E8A825</string>
+		</dict>
+		<key>C64A13F4-B29C-496C-8FFB-12C21914DC92</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C64A13F4-B29C-496C-8FFB-12C21914DC92.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670970.73561597</real>
+			<key>timeStoppedRecording</key>
+			<real>582670971.25277102</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>C64A13F4-B29C-496C-8FFB-12C21914DC92</string>
+		</dict>
+		<key>CAC069AB-57EE-40EF-A493-33D0DE80A0FA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CAC069AB-57EE-40EF-A493-33D0DE80A0FA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671093.58055604</real>
+			<key>timeStoppedRecording</key>
+			<real>582671095.456954</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>CAC069AB-57EE-40EF-A493-33D0DE80A0FA</string>
+		</dict>
+		<key>CD1B8025-0623-40C4-AE4A-73568173D126</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CD1B8025-0623-40C4-AE4A-73568173D126.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582673112.26104105</real>
+			<key>timeStoppedRecording</key>
+			<real>582673113.60227203</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>CD1B8025-0623-40C4-AE4A-73568173D126</string>
+		</dict>
+		<key>D431EA92-8022-4156-A167-31041D449089</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D431EA92-8022-4156-A167-31041D449089.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670788.734357</real>
+			<key>timeStoppedRecording</key>
+			<real>582670789.97773504</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>D431EA92-8022-4156-A167-31041D449089</string>
+		</dict>
+		<key>D4358B7D-2C5F-4E33-A73A-F881B2E9409C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4358B7D-2C5F-4E33-A73A-F881B2E9409C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670741.26161897</real>
+			<key>timeStoppedRecording</key>
+			<real>582670742.84954703</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>D4358B7D-2C5F-4E33-A73A-F881B2E9409C</string>
+		</dict>
+		<key>DFD950CD-029A-4395-B79C-A4FE2E398706</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DFD950CD-029A-4395-B79C-A4FE2E398706.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582672226.32158601</real>
+			<key>timeStoppedRecording</key>
+			<real>582672227.00746906</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>DFD950CD-029A-4395-B79C-A4FE2E398706</string>
+		</dict>
+		<key>DFE55B88-9466-4A1E-9AE1-971CDD86AFB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DFE55B88-9466-4A1E-9AE1-971CDD86AFB4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670441.69486701</real>
+			<key>timeStoppedRecording</key>
+			<real>582670442.83955503</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>DFE55B88-9466-4A1E-9AE1-971CDD86AFB4</string>
+		</dict>
+		<key>E3266B3D-ED2B-496C-96DB-4AEBE06454B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3266B3D-ED2B-496C-96DB-4AEBE06454B5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671210.08701801</real>
+			<key>timeStoppedRecording</key>
+			<real>582671211.44019699</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>E3266B3D-ED2B-496C-96DB-4AEBE06454B5</string>
+		</dict>
+		<key>E36906B1-2143-4B0C-9A4D-31FAE2154144</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E36906B1-2143-4B0C-9A4D-31FAE2154144.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671755.60125995</real>
+			<key>timeStoppedRecording</key>
+			<real>582671756.99387896</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>E36906B1-2143-4B0C-9A4D-31FAE2154144</string>
+		</dict>
+		<key>EEBCF607-D7B7-4669-BA1C-F77837D1EE89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EEBCF607-D7B7-4669-BA1C-F77837D1EE89.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671300.64868402</real>
+			<key>timeStoppedRecording</key>
+			<real>582671301.14748895</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>EEBCF607-D7B7-4669-BA1C-F77837D1EE89</string>
+		</dict>
+		<key>EF7B7D08-7761-4926-B800-B45EED6D7459</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF7B7D08-7761-4926-B800-B45EED6D7459.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582673090.52889705</real>
+			<key>timeStoppedRecording</key>
+			<real>582673091.77894294</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>EF7B7D08-7761-4926-B800-B45EED6D7459</string>
+		</dict>
+		<key>F43C024F-BC62-412E-8DB2-B1BA763A3F72</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F43C024F-BC62-412E-8DB2-B1BA763A3F72.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582671716.08971906</real>
+			<key>timeStoppedRecording</key>
+			<real>582671717.41220605</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>F43C024F-BC62-412E-8DB2-B1BA763A3F72</string>
+		</dict>
+		<key>F649A3A0-9A24-4C10-A983-45715B551E25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F649A3A0-9A24-4C10-A983-45715B551E25.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670640.98819995</real>
+			<key>timeStoppedRecording</key>
+			<real>582670642.354532</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>F649A3A0-9A24-4C10-A983-45715B551E25</string>
+		</dict>
+		<key>F7F140A3-9F99-4650-BEDF-333F027FE02F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7F140A3-9F99-4650-BEDF-333F027FE02F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670873.05966496</real>
+			<key>timeStoppedRecording</key>
+			<real>582670874.36718202</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>F7F140A3-9F99-4650-BEDF-333F027FE02F</string>
+		</dict>
+		<key>F8F441F2-B2F5-4226-968B-C3BDFE874FF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F8F441F2-B2F5-4226-968B-C3BDFE874FF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gish project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gish</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gish</string>
+			<key>timeStartedRecording</key>
+			<real>582670261.40773702</real>
+			<key>timeStoppedRecording</key>
+			<real>582670261.858374</real>
+			<key>title</key>
+			<string>Build Gish</string>
+			<key>uniqueIdentifier</key>
+			<string>F8F441F2-B2F5-4226-968B-C3BDFE874FF1</string>
 		</dict>
 	</dict>
 </dict>

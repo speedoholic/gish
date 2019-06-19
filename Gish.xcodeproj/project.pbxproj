@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		557D6F6122BADD3F00BD70C7 /* Double+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557D6F6022BADD3F00BD70C7 /* Double+Extension.swift */; };
 		55BF74DF22B572E300FBF035 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BF74DE22B572E300FBF035 /* AppDelegate.swift */; };
 		55BF74E122B572E400FBF035 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BF74E022B572E400FBF035 /* SceneDelegate.swift */; };
 		55BF74E322B572E400FBF035 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BF74E222B572E400FBF035 /* ContentView.swift */; };
@@ -15,6 +16,7 @@
 		55BF74EB22B572E500FBF035 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55BF74E922B572E500FBF035 /* LaunchScreen.storyboard */; };
 		55BF74F322B5753F00FBF035 /* Role.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BF74F222B5753F00FBF035 /* Role.swift */; };
 		55BF74F522B5E30600FBF035 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BF74F422B5E30600FBF035 /* ListView.swift */; };
+		55E8066522BAD6AC009DCCA3 /* TimerColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55E8066422BAD6AC009DCCA3 /* TimerColor.swift */; };
 		55FB576F22B95661007F464F /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FB576E22B95661007F464F /* FormView.swift */; };
 		55FB577322B965D8007F464F /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FB577222B965D8007F464F /* User.swift */; };
 		55FB577F22B96FA1007F464F /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 55FB577522B96FA1007F464F /* nssl0049.jpg */; };
@@ -30,6 +32,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		557D6F6022BADD3F00BD70C7 /* Double+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
 		55BF74DB22B572E300FBF035 /* Gish.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Gish.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55BF74DE22B572E300FBF035 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55BF74E022B572E400FBF035 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +43,7 @@
 		55BF74EC22B572E500FBF035 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		55BF74F222B5753F00FBF035 /* Role.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Role.swift; sourceTree = "<group>"; };
 		55BF74F422B5E30600FBF035 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		55E8066422BAD6AC009DCCA3 /* TimerColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerColor.swift; sourceTree = "<group>"; };
 		55FB576E22B95661007F464F /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
 		55FB577222B965D8007F464F /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		55FB577522B96FA1007F464F /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
@@ -93,6 +97,7 @@
 				55BF74E922B572E500FBF035 /* LaunchScreen.storyboard */,
 				55BF74EC22B572E500FBF035 /* Info.plist */,
 				55BF74E622B572E500FBF035 /* Preview Content */,
+				557D6F6022BADD3F00BD70C7 /* Double+Extension.swift */,
 			);
 			path = Gish;
 			sourceTree = "<group>";
@@ -110,6 +115,7 @@
 			children = (
 				55BF74F222B5753F00FBF035 /* Role.swift */,
 				55FB577222B965D8007F464F /* User.swift */,
+				55E8066422BAD6AC009DCCA3 /* TimerColor.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -224,7 +230,9 @@
 			files = (
 				55FB576F22B95661007F464F /* FormView.swift in Sources */,
 				55BF74DF22B572E300FBF035 /* AppDelegate.swift in Sources */,
+				557D6F6122BADD3F00BD70C7 /* Double+Extension.swift in Sources */,
 				55BF74E122B572E400FBF035 /* SceneDelegate.swift in Sources */,
+				55E8066522BAD6AC009DCCA3 /* TimerColor.swift in Sources */,
 				55BF74F522B5E30600FBF035 /* ListView.swift in Sources */,
 				55BF74E322B572E400FBF035 /* ContentView.swift in Sources */,
 				55BF74F322B5753F00FBF035 /* Role.swift in Sources */,

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>03AAC879-9518-41A0-916F-3AFC72EAD370</key>
+		<key>0993A170-56AA-47B4-A157-7E05659BBE11</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>03AAC879-9518-41A0-916F-3AFC72EAD370.xcactivitylog</string>
+			<string>0993A170-56AA-47B4-A157-7E05659BBE11.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666112.38435102</real>
+			<real>582672653.43460798</real>
 			<key>timeStoppedRecording</key>
-			<real>582666338.38484097</real>
+			<real>582672764.99457705</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>03AAC879-9518-41A0-916F-3AFC72EAD370</string>
+			<string>0993A170-56AA-47B4-A157-7E05659BBE11</string>
 		</dict>
-		<key>1274BDCE-4CFF-4AC9-BF12-D0896B2A1508</key>
+		<key>0B197B4E-27F9-4E41-8832-FFD1B480BE96</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1274BDCE-4CFF-4AC9-BF12-D0896B2A1508.xcactivitylog</string>
+			<string>0B197B4E-27F9-4E41-8832-FFD1B480BE96.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667147.74028695</real>
+			<real>582670789.79872596</real>
 			<key>timeStoppedRecording</key>
-			<real>582667321.17840195</real>
+			<real>582670806.84514105</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>1274BDCE-4CFF-4AC9-BF12-D0896B2A1508</string>
+			<string>0B197B4E-27F9-4E41-8832-FFD1B480BE96</string>
 		</dict>
-		<key>1581419F-FE29-4FA4-B776-9D0FDEBC22F7</key>
+		<key>0D7F07B2-2054-4E96-9974-6D561C36A645</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1581419F-FE29-4FA4-B776-9D0FDEBC22F7.xcactivitylog</string>
+			<string>0D7F07B2-2054-4E96-9974-6D561C36A645.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665937.97542799</real>
+			<real>582670874.19186199</real>
 			<key>timeStoppedRecording</key>
-			<real>582665957.75902104</real>
+			<real>582671093.74180305</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>1581419F-FE29-4FA4-B776-9D0FDEBC22F7</string>
+			<string>0D7F07B2-2054-4E96-9974-6D561C36A645</string>
 		</dict>
-		<key>160F9E2D-C250-4046-968E-F44414FD5A68</key>
+		<key>0F912078-91FB-4C6F-AAD0-89D4BA7FE131</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>160F9E2D-C250-4046-968E-F44414FD5A68.xcactivitylog</string>
+			<string>0F912078-91FB-4C6F-AAD0-89D4BA7FE131.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665958.52194405</real>
+			<real>582671095.28153396</real>
 			<key>timeStoppedRecording</key>
-			<real>582666054.66702294</real>
+			<real>582671432.62778497</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>160F9E2D-C250-4046-968E-F44414FD5A68</string>
+			<string>0F912078-91FB-4C6F-AAD0-89D4BA7FE131</string>
 		</dict>
-		<key>1E8BEE10-7E44-443D-9DEA-FF4BB8755869</key>
+		<key>1A8B2948-5244-443D-AADB-633AB0DBE86A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1E8BEE10-7E44-443D-9DEA-FF4BB8755869.xcactivitylog</string>
+			<string>1A8B2948-5244-443D-AADB-633AB0DBE86A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667065.402969</real>
+			<real>582670807.74824202</real>
 			<key>timeStoppedRecording</key>
-			<real>582667088.35595202</real>
+			<real>582670873.23827505</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>1E8BEE10-7E44-443D-9DEA-FF4BB8755869</string>
+			<string>1A8B2948-5244-443D-AADB-633AB0DBE86A</string>
 		</dict>
-		<key>1F9C5023-9427-4374-BE40-5A4C07C6A83E</key>
+		<key>1DD4E446-371D-4AC9-B363-07581BC4F21F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -185,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1F9C5023-9427-4374-BE40-5A4C07C6A83E.xcactivitylog</string>
+			<string>1DD4E446-371D-4AC9-B363-07581BC4F21F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +202,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665891.62258995</real>
+			<real>582672537.23974597</real>
 			<key>timeStoppedRecording</key>
-			<real>582665910.31229997</real>
+			<real>582672609.37636006</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>1F9C5023-9427-4374-BE40-5A4C07C6A83E</string>
+			<string>1DD4E446-371D-4AC9-B363-07581BC4F21F</string>
 		</dict>
-		<key>24A303C3-A7B6-4F45-B4EF-6679097258EC</key>
+		<key>292695BD-5D49-4CD4-BF97-833D5ABD37CB</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -219,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>24A303C3-A7B6-4F45-B4EF-6679097258EC.xcactivitylog</string>
+			<string>292695BD-5D49-4CD4-BF97-833D5ABD37CB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +236,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666859.81725597</real>
+			<real>582671756.80954194</real>
 			<key>timeStoppedRecording</key>
-			<real>582666884.42724097</real>
+			<real>582671822.87741601</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>24A303C3-A7B6-4F45-B4EF-6679097258EC</string>
+			<string>292695BD-5D49-4CD4-BF97-833D5ABD37CB</string>
 		</dict>
-		<key>2865D6C5-E6ED-4A5A-A8CA-07819A73F3ED</key>
+		<key>2A490BEC-CA14-475D-AED7-425130858446</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -253,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2865D6C5-E6ED-4A5A-A8CA-07819A73F3ED.xcactivitylog</string>
+			<string>2A490BEC-CA14-475D-AED7-425130858446.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +270,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665576.11538601</real>
+			<real>582671440.10761797</real>
 			<key>timeStoppedRecording</key>
-			<real>582665603.57401299</real>
+			<real>582671555.49299502</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>2865D6C5-E6ED-4A5A-A8CA-07819A73F3ED</string>
+			<string>2A490BEC-CA14-475D-AED7-425130858446</string>
 		</dict>
-		<key>2E9630D2-0C1E-4532-ACD2-31F736853041</key>
+		<key>2AD533EA-EB7D-400B-9A2F-6A3B42FBA7D1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -287,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2E9630D2-0C1E-4532-ACD2-31F736853041.xcactivitylog</string>
+			<string>2AD533EA-EB7D-400B-9A2F-6A3B42FBA7D1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +304,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666906.60211205</real>
+			<real>582671572.96783102</real>
 			<key>timeStoppedRecording</key>
-			<real>582666930.18081903</real>
+			<real>582671590.25919402</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>2E9630D2-0C1E-4532-ACD2-31F736853041</string>
+			<string>2AD533EA-EB7D-400B-9A2F-6A3B42FBA7D1</string>
 		</dict>
-		<key>31B93DD8-5C40-4D84-9903-A578F1FEE941</key>
+		<key>365DEFB4-DA47-41A3-BDA3-52AFFBCA80D5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -321,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>31B93DD8-5C40-4D84-9903-A578F1FEE941.xcactivitylog</string>
+			<string>365DEFB4-DA47-41A3-BDA3-52AFFBCA80D5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +338,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665604.208336</real>
+			<real>582670442.66864002</real>
 			<key>timeStoppedRecording</key>
-			<real>582665667.43495095</real>
+			<real>582670465.68623495</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>31B93DD8-5C40-4D84-9903-A578F1FEE941</string>
+			<string>365DEFB4-DA47-41A3-BDA3-52AFFBCA80D5</string>
 		</dict>
-		<key>3432E00B-87F7-4481-8BB8-CF46CF6E0C29</key>
+		<key>3AAB6AF1-C082-42D0-A61E-DF92B1B45684</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -355,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3432E00B-87F7-4481-8BB8-CF46CF6E0C29.xcactivitylog</string>
+			<string>3AAB6AF1-C082-42D0-A61E-DF92B1B45684.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +372,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666828.92158902</real>
+			<real>582671743.39962494</real>
 			<key>timeStoppedRecording</key>
-			<real>582666858.91357601</real>
+			<real>582671755.83951604</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>3432E00B-87F7-4481-8BB8-CF46CF6E0C29</string>
+			<string>3AAB6AF1-C082-42D0-A61E-DF92B1B45684</string>
 		</dict>
-		<key>35FE8BFF-32BE-419A-9E2C-6484300CE514</key>
+		<key>3BFEF363-8FBC-4350-9A25-6969C96235AC</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -389,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>35FE8BFF-32BE-419A-9E2C-6484300CE514.xcactivitylog</string>
+			<string>3BFEF363-8FBC-4350-9A25-6969C96235AC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +406,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665532.67114794</real>
+			<real>582671717.22763097</real>
 			<key>timeStoppedRecording</key>
-			<real>582665575.46303999</real>
+			<real>582671742.44273102</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>35FE8BFF-32BE-419A-9E2C-6484300CE514</string>
+			<string>3BFEF363-8FBC-4350-9A25-6969C96235AC</string>
 		</dict>
-		<key>389E8EE4-C4EB-489F-A7E9-534C3526B347</key>
+		<key>406A2733-DB68-4C8D-A921-12AD7F75418F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -423,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>389E8EE4-C4EB-489F-A7E9-534C3526B347.xcactivitylog</string>
+			<string>406A2733-DB68-4C8D-A921-12AD7F75418F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +440,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666986.29533398</real>
+			<real>582670315.13987994</real>
 			<key>timeStoppedRecording</key>
-			<real>582666997.32449603</real>
+			<real>582670392.53351402</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>389E8EE4-C4EB-489F-A7E9-534C3526B347</string>
+			<string>406A2733-DB68-4C8D-A921-12AD7F75418F</string>
 		</dict>
-		<key>4FD3314F-E22E-491B-87D7-4A34FFA53C9E</key>
+		<key>4B3B022F-A3BF-4BF1-9CF3-18386A219B1A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -457,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>4FD3314F-E22E-491B-87D7-4A34FFA53C9E.xcactivitylog</string>
+			<string>4B3B022F-A3BF-4BF1-9CF3-18386A219B1A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +474,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665804.48143101</real>
+			<real>582673091.59605896</real>
 			<key>timeStoppedRecording</key>
-			<real>582665834.64177001</real>
+			<real>582673112.43014896</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>4FD3314F-E22E-491B-87D7-4A34FFA53C9E</string>
+			<string>4B3B022F-A3BF-4BF1-9CF3-18386A219B1A</string>
 		</dict>
-		<key>56CDDDF9-3E44-49D7-A5AE-C3202AB10248</key>
+		<key>534C11F3-7DEE-4CEC-B06D-457BA4A26FB2</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -491,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>56CDDDF9-3E44-49D7-A5AE-C3202AB10248.xcactivitylog</string>
+			<string>534C11F3-7DEE-4CEC-B06D-457BA4A26FB2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +508,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582579358.95928097</real>
+			<real>582672911.09403801</real>
 			<key>timeStoppedRecording</key>
-			<real>582579428.27870297</real>
+			<real>582673045.40740204</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>56CDDDF9-3E44-49D7-A5AE-C3202AB10248</string>
+			<string>534C11F3-7DEE-4CEC-B06D-457BA4A26FB2</string>
 		</dict>
-		<key>62284055-DB81-43FC-B5A7-470E3DF3B2B7</key>
+		<key>5CAE1115-D6E5-4B64-8FEC-F5548444E891</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -525,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>62284055-DB81-43FC-B5A7-470E3DF3B2B7.xcactivitylog</string>
+			<string>5CAE1115-D6E5-4B64-8FEC-F5548444E891.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +542,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665462.90924501</real>
+			<real>582672129.26609898</real>
 			<key>timeStoppedRecording</key>
-			<real>582665531.97111404</real>
+			<real>582672226.47565198</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>62284055-DB81-43FC-B5A7-470E3DF3B2B7</string>
+			<string>5CAE1115-D6E5-4B64-8FEC-F5548444E891</string>
 		</dict>
-		<key>6C2D50B1-CBE8-441A-A5F9-3A02700C1FA0</key>
+		<key>65E5CDF5-18FD-4945-A463-4E58F00A20DF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -559,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>6C2D50B1-CBE8-441A-A5F9-3A02700C1FA0.xcactivitylog</string>
+			<string>65E5CDF5-18FD-4945-A463-4E58F00A20DF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +576,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666885.27097797</real>
+			<real>582671556.52517295</real>
 			<key>timeStoppedRecording</key>
-			<real>582666905.75856102</real>
+			<real>582671571.96063101</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>6C2D50B1-CBE8-441A-A5F9-3A02700C1FA0</string>
+			<string>65E5CDF5-18FD-4945-A463-4E58F00A20DF</string>
 		</dict>
-		<key>7CF5FAD4-35F3-4A13-85CC-638761505DC8</key>
+		<key>68257CBC-5BFB-41BB-A05C-885656EB3A09</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -593,7 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7CF5FAD4-35F3-4A13-85CC-638761505DC8.xcactivitylog</string>
+			<string>68257CBC-5BFB-41BB-A05C-885656EB3A09.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +610,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667117.83155406</real>
+			<real>582671824.18479395</real>
 			<key>timeStoppedRecording</key>
-			<real>582667146.77302599</real>
+			<real>582671876.94270802</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>7CF5FAD4-35F3-4A13-85CC-638761505DC8</string>
+			<string>68257CBC-5BFB-41BB-A05C-885656EB3A09</string>
 		</dict>
-		<key>7EC0F696-32D0-499D-AB31-CA1247672DCF</key>
+		<key>7015A957-A6AD-4EA2-8FFD-FE5E12EB6209</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -627,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7EC0F696-32D0-499D-AB31-CA1247672DCF.xcactivitylog</string>
+			<string>7015A957-A6AD-4EA2-8FFD-FE5E12EB6209.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +644,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666339.10928202</real>
+			<real>582670498.61808705</real>
 			<key>timeStoppedRecording</key>
-			<real>582666827.60715795</real>
+			<real>582670645.20845795</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>7EC0F696-32D0-499D-AB31-CA1247672DCF</string>
+			<string>7015A957-A6AD-4EA2-8FFD-FE5E12EB6209</string>
 		</dict>
-		<key>8D5741F2-3BB4-45C4-9B2A-3EE0132C0AED</key>
+		<key>711A2908-AE36-4200-9193-6885B280E690</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -661,7 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>8D5741F2-3BB4-45C4-9B2A-3EE0132C0AED.xcactivitylog</string>
+			<string>711A2908-AE36-4200-9193-6885B280E690.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +678,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667027.25568104</real>
+			<real>582672012.07880104</real>
 			<key>timeStoppedRecording</key>
-			<real>582667048.58869898</real>
+			<real>582672127.95548904</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>8D5741F2-3BB4-45C4-9B2A-3EE0132C0AED</string>
+			<string>711A2908-AE36-4200-9193-6885B280E690</string>
 		</dict>
-		<key>9E929420-AECD-4CAA-A32B-94985AABBD60</key>
+		<key>741E1646-D63F-46A9-9C52-A43BA6A761F2</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -695,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>9E929420-AECD-4CAA-A32B-94985AABBD60.xcactivitylog</string>
+			<string>741E1646-D63F-46A9-9C52-A43BA6A761F2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +712,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665241.525841</real>
+			<real>582670645.03177702</real>
 			<key>timeStoppedRecording</key>
-			<real>582665288.70348597</real>
+			<real>582670665.28278399</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>9E929420-AECD-4CAA-A32B-94985AABBD60</string>
+			<string>741E1646-D63F-46A9-9C52-A43BA6A761F2</string>
 		</dict>
-		<key>A4A1CCFB-CA9D-4599-9F02-E1B4E4548A6B</key>
+		<key>7EC6590D-0A07-4CD6-A98E-BBE80F72D2E7</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -729,7 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A4A1CCFB-CA9D-4599-9F02-E1B4E4548A6B.xcactivitylog</string>
+			<string>7EC6590D-0A07-4CD6-A98E-BBE80F72D2E7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -746,15 +746,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665086.44429004</real>
+			<real>582672777.26072097</real>
 			<key>timeStoppedRecording</key>
-			<real>582665181.857723</real>
+			<real>582672825.57273602</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>A4A1CCFB-CA9D-4599-9F02-E1B4E4548A6B</string>
+			<string>7EC6590D-0A07-4CD6-A98E-BBE80F72D2E7</string>
 		</dict>
-		<key>A5EDB7B5-2F25-4846-9C21-58597A6426D1</key>
+		<key>AAEEBE3A-9C1E-4ACB-AA68-98197EC8FE83</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -763,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A5EDB7B5-2F25-4846-9C21-58597A6426D1.xcactivitylog</string>
+			<string>AAEEBE3A-9C1E-4ACB-AA68-98197EC8FE83.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -780,15 +780,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666055.42468405</real>
+			<real>582669365.21537602</real>
 			<key>timeStoppedRecording</key>
-			<real>582666111.62801695</real>
+			<real>582669803.73421896</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>A5EDB7B5-2F25-4846-9C21-58597A6426D1</string>
+			<string>AAEEBE3A-9C1E-4ACB-AA68-98197EC8FE83</string>
 		</dict>
-		<key>A5F1BD13-4754-4A6A-8B80-E7EDC35B456E</key>
+		<key>ACFBD74E-0B81-4CDC-BAA2-244695272466</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -797,7 +797,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A5F1BD13-4754-4A6A-8B80-E7EDC35B456E.xcactivitylog</string>
+			<string>ACFBD74E-0B81-4CDC-BAA2-244695272466.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -814,15 +814,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582666998.21440196</real>
+			<real>582671877.91621006</real>
 			<key>timeStoppedRecording</key>
-			<real>582667026.34216595</real>
+			<real>582672011.06853902</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>A5F1BD13-4754-4A6A-8B80-E7EDC35B456E</string>
+			<string>ACFBD74E-0B81-4CDC-BAA2-244695272466</string>
 		</dict>
-		<key>A87D8C23-E9DC-4E3B-ADEF-0B96F9AFC649</key>
+		<key>AEF0C517-765C-4213-ABD9-B83CD58255DA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -831,7 +831,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A87D8C23-E9DC-4E3B-ADEF-0B96F9AFC649.xcactivitylog</string>
+			<string>AEF0C517-765C-4213-ABD9-B83CD58255DA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -848,15 +848,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582664959.05711401</real>
+			<real>582670666.11102998</real>
 			<key>timeStoppedRecording</key>
-			<real>582665085.92761505</real>
+			<real>582670741.44899905</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>A87D8C23-E9DC-4E3B-ADEF-0B96F9AFC649</string>
+			<string>AEF0C517-765C-4213-ABD9-B83CD58255DA</string>
 		</dict>
-		<key>ADD9C2E6-3ABA-4493-80E5-F4D11AE3BEFA</key>
+		<key>D8249815-EB95-4CA1-8F94-6902B596807A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -865,7 +865,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>ADD9C2E6-3ABA-4493-80E5-F4D11AE3BEFA.xcactivitylog</string>
+			<string>D8249815-EB95-4CA1-8F94-6902B596807A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -882,15 +882,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665675.97943401</real>
+			<real>582673046.37058401</real>
 			<key>timeStoppedRecording</key>
-			<real>582665803.85984695</real>
+			<real>582673090.71846497</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>ADD9C2E6-3ABA-4493-80E5-F4D11AE3BEFA</string>
+			<string>D8249815-EB95-4CA1-8F94-6902B596807A</string>
 		</dict>
-		<key>B3C39029-7BD4-437B-A6A7-4761A02EF830</key>
+		<key>DB0DA6CB-9241-4DEA-99B7-9DF692442E88</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -899,7 +899,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B3C39029-7BD4-437B-A6A7-4761A02EF830.xcactivitylog</string>
+			<string>DB0DA6CB-9241-4DEA-99B7-9DF692442E88.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -916,15 +916,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665182.55639899</real>
+			<real>582670742.67215204</real>
 			<key>timeStoppedRecording</key>
-			<real>582665240.81585002</real>
+			<real>582670788.97083795</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>B3C39029-7BD4-437B-A6A7-4761A02EF830</string>
+			<string>DB0DA6CB-9241-4DEA-99B7-9DF692442E88</string>
 		</dict>
-		<key>B9336B62-3D3A-40C0-B8B3-03450A4C3569</key>
+		<key>DEFD778D-68B3-4B05-8342-0B187A4A1EA6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -933,7 +933,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B9336B62-3D3A-40C0-B8B3-03450A4C3569.xcactivitylog</string>
+			<string>DEFD778D-68B3-4B05-8342-0B187A4A1EA6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -950,15 +950,15 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582667049.52962899</real>
+			<real>582672241.91272497</real>
 			<key>timeStoppedRecording</key>
-			<real>582667064.47148502</real>
+			<real>582672537.441414</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>B9336B62-3D3A-40C0-B8B3-03450A4C3569</string>
+			<string>DEFD778D-68B3-4B05-8342-0B187A4A1EA6</string>
 		</dict>
-		<key>C9472839-C040-41FB-910E-82F067D4FB26</key>
+		<key>F1B62BFF-A652-4C45-9653-EABD1FE85FBC</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -967,7 +967,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C9472839-C040-41FB-910E-82F067D4FB26.xcactivitylog</string>
+			<string>F1B62BFF-A652-4C45-9653-EABD1FE85FBC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -984,217 +984,13 @@
 			<key>signature</key>
 			<string>Debug Gish</string>
 			<key>timeStartedRecording</key>
-			<real>582665289.44994795</real>
+			<real>582672826.52223504</real>
 			<key>timeStoppedRecording</key>
-			<real>582665334.065323</real>
+			<real>582672910.12309504</real>
 			<key>title</key>
 			<string>Debug Gish</string>
 			<key>uniqueIdentifier</key>
-			<string>C9472839-C040-41FB-910E-82F067D4FB26</string>
-		</dict>
-		<key>CAEB249C-2E78-448D-A9C2-6FFE422666AF</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>CAEB249C-2E78-448D-A9C2-6FFE422666AF.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667410.74706304</real>
-			<key>timeStoppedRecording</key>
-			<real>582667458.87216997</real>
-			<key>title</key>
-			<string>Debug Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>CAEB249C-2E78-448D-A9C2-6FFE422666AF</string>
-		</dict>
-		<key>CF9840BF-7781-45D7-A757-94B46DC5B578</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>CF9840BF-7781-45D7-A757-94B46DC5B578.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665334.69964302</real>
-			<key>timeStoppedRecording</key>
-			<real>582665452.22986495</real>
-			<key>title</key>
-			<string>Debug Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>CF9840BF-7781-45D7-A757-94B46DC5B578</string>
-		</dict>
-		<key>D3DE3E85-E359-4FA0-8463-94CABEE7A386</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>D3DE3E85-E359-4FA0-8463-94CABEE7A386.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667089.26869297</real>
-			<key>timeStoppedRecording</key>
-			<real>582667116.90655601</real>
-			<key>title</key>
-			<string>Debug Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>D3DE3E85-E359-4FA0-8463-94CABEE7A386</string>
-		</dict>
-		<key>E68D53C4-611F-4250-8AAC-2E9FCE9E80CD</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>E68D53C4-611F-4250-8AAC-2E9FCE9E80CD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582666931.07462394</real>
-			<key>timeStoppedRecording</key>
-			<real>582666985.359097</real>
-			<key>title</key>
-			<string>Debug Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>E68D53C4-611F-4250-8AAC-2E9FCE9E80CD</string>
-		</dict>
-		<key>F75C7059-0ACD-4B48-8E08-F709223EF608</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F75C7059-0ACD-4B48-8E08-F709223EF608.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582667465.84944201</real>
-			<key>timeStoppedRecording</key>
-			<real>582667513.86251605</real>
-			<key>title</key>
-			<string>Debug Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>F75C7059-0ACD-4B48-8E08-F709223EF608</string>
-		</dict>
-		<key>FE7360E3-BF09-4EFE-A91F-8320697BF97B</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>FE7360E3-BF09-4EFE-A91F-8320697BF97B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Gish project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Gish</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Debug Gish</string>
-			<key>timeStartedRecording</key>
-			<real>582665910.96369803</real>
-			<key>timeStoppedRecording</key>
-			<real>582665937.32038796</real>
-			<key>title</key>
-			<string>Debug Gish</string>
-			<key>uniqueIdentifier</key>
-			<string>FE7360E3-BF09-4EFE-A91F-8320697BF97B</string>
+			<string>F1B62BFF-A652-4C45-9653-EABD1FE85FBC</string>
 		</dict>
 	</dict>
 </dict>

@@ -57,7 +57,7 @@ struct ContentView : View {
                     ZStack {
                         Circle()
                             .fill(Color.white)
-                            .frame(width: 150, height: 150)
+                            .frame(width: 100, height: 100)
                         Text("Go")
                             .font(.largeTitle)
                     }
